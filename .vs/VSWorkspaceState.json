@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\pages",
+    "\\pages\\product",
+    "\\pages\\product\\[productId]",
+    "\\pages\\product\\[productId]\\review",
+    "\\public",
+    "\\styles"
+  ],
+  "SelectedNode": "\\pages\\product\\[productId]\\review\\[reviewId].js",
+  "PreviewInSolutionExplorer": false
+}
